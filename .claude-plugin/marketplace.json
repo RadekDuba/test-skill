@@ -5,8 +5,8 @@
     {
       "name": "maptiler",
       "source": {
-        "source": "github",
-        "repo": "RadekDuba/test-skill"
+        "source": "url",
+        "url": "https://github.com/RadekDuba/test-skill.git"
       },
       "description": "MapTiler expert skill",
       "version": "1.0.0"
