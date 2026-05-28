@@ -1,0 +1,12 @@
+ {
+    "name": "test-skill",
+    "owner": { "name": "RadekDuba" },
+    "plugins": [
+      {
+        "name": "maptiler",
+        "source": ".",
+        "description": "MapTiler expert skill",
+        "version": "1.0.0"
+      }
+    ]
+  }
