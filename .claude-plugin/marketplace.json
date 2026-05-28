@@ -1,12 +1,15 @@
- {
-    "name": "test-skill",
-    "owner": { "name": "RadekDuba" },
-    "plugins": [
-      {
-        "name": "maptiler",
+{
+  "name": "test-skill",
+  "owner": { "name": "RadekDuba" },
+  "plugins": [
+    {
+      "name": "maptiler",
+      "source": {
         "source": "github",
-        "description": "MapTiler expert skill",
-        "version": "1.0.0"
-      }
-    ]
-  }
+        "repo": "RadekDuba/test-skill"
+      },
+      "description": "MapTiler expert skill",
+      "version": "1.0.0"
+    }
+  ]
+}
