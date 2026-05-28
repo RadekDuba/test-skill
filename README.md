@@ -10,7 +10,7 @@ Built on the [Agent Skills](https://agentskills.io) open standard, so the same s
 
 A skill is on-demand expertise: the agent loads it only when your request matches the skill's description, then follows its instructions instead of guessing. When you ask for maps, geocoding, weather, elevation, vector tiles, or any geospatial feature, this skill makes the agent:
 
-- Generate **platform-correct code** for web (MapTiler SDK JS, MapLibre GL JS), frameworks (React, Svelte, Vue, Angular, Leaflet, OpenLayers, Cesium, deck.gl), mobile (iOS Swift, Android Kotlin, Flutter, React Native), and on-premise (MapTiler Server, Tile Engine).
+- Generate **platform-correct code** for web (MapTiler SDK JS, Leaflet, OpenLayers), frameworks (React, Svelte, Vue, Angular, Cesium, deck.gl), mobile (iOS Swift, Android Kotlin, Flutter, React Native), and on-premise (MapTiler Server, MapTiler Engine).
 - Call the **right Cloud REST API** (geocoding, weather, static maps, elevation, tiles, coordinates, IP geolocation, admin/tilesets) with correct endpoints and auth patterns.
 - Apply **modern v4 styles** automatically, upgrading deprecated `*-v2` / `*-v3` style IDs wherever they appear.
 - Use **pinned, current versions** for every SDK, CDN script, and dependency, with no unresolved template placeholders.
