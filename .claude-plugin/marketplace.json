@@ -4,7 +4,7 @@
     "plugins": [
       {
         "name": "maptiler",
-        "source": ".",
+        "source": "github",
         "description": "MapTiler expert skill",
         "version": "1.0.0"
       }
