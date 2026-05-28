@@ -36,7 +36,7 @@ Copy-Item -Recurse maptiler "$env:USERPROFILE\.claude\skills\"
 Or — if distributed as a Claude Code plugin:
 
 ```
-/plugin marketplace add <repo-url>
+/plugin marketplace add RadekDuba/test-skill
 /plugin install maptiler
 ```
 
