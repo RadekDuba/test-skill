@@ -1,8 +1,8 @@
 # MapTiler — Agent Skill
 
-Expert coding skill for building location-aware applications across the **full MapTiler platform**. It gives AI coding agents the context to generate correct, production-ready code using MapTiler Cloud APIs, the MapTiler SDK family, native mobile SDKs, and on-premise infrastructure.
+Expert coding skill for building location-aware applications across the **full MapTiler platform**. It gives AI coding agents the context to generate correct, production-ready code using MapTiler Cloud APIs, the MapTiler SDK , mobile SDKs, and on-premise tools.
 
-Built on the [Agent Skills](https://agentskills.io) open standard, so the same skill works across **Claude Code**, **Gemini CLI**, **Cursor**, **Windsurf**, and other compatible AI agents. You write the skill once; each tool just reads the same `SKILL.md`.
+Built on the [Agent Skills](https://agentskills.io) open standard, so the same skill works across **Claude Code**, **Gemini CLI**, **Cursor**, **Windsurf**, and other compatible AI agents.
 
 ---
 
